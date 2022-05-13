@@ -23,9 +23,7 @@ export default function Home({ navigation }) {
                 <AppText>Start</AppText>
             </TouchableOpacity>
 
-            <TouchableOpacity onPress={() => navigation.navigate('Myquiz')}>
-                <AppText>Start</AppText>
-            </TouchableOpacity>
+
         </View>
     )
 }
