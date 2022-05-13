@@ -16,7 +16,7 @@ export default function Result() {
                 </View>
                 <View>
                     <TouchableOpacity>
-                        <Text>Homes</Text>
+                        <Text>Home</Text>
                     </TouchableOpacity>
                 </View>
             </View>
