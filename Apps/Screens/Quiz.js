@@ -29,7 +29,7 @@ export default function Quiz() {
                     <Text>Next</Text>
                 </TouchableOpacity>
                 <TouchableOpacity onPress>
-                    <Text>End</Text>
+                    <Text>En</Text>
                 </TouchableOpacity>
             </View>
 
