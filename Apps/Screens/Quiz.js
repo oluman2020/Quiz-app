@@ -5,7 +5,7 @@ export default function Quiz() {
     return (
         <View style={styles.Container}>
             <View >
-                <Text>Imagin this is real question </Text>
+                <Text>Imaging this is real question </Text>
             </View>
             <View style={styles.Options}>
                 <TouchableOpacity>
@@ -29,7 +29,7 @@ export default function Quiz() {
                     <Text>Next</Text>
                 </TouchableOpacity>
                 <TouchableOpacity onPress>
-                    <Text>En</Text>
+                    <Text>End</Text>
                 </TouchableOpacity>
             </View>
 
