@@ -28,7 +28,7 @@ export default function Quiz() {
                 <TouchableOpacity>
                     <Text>Next</Text>
                 </TouchableOpacity>
-                <TouchableOpacity>
+                <TouchableOpacity onPress>
                     <Text>End</Text>
                 </TouchableOpacity>
             </View>
